@@ -1,0 +1,5 @@
+node_modules
+*.lock
+**/screenshots/**/*.*
+.vscode
+package-lock.json

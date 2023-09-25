@@ -1,0 +1,16 @@
+{
+  "envs": ["prod", "stage"],
+  "view_ports": ["1152x720", "1440x900", "1920x1080", "4480x2520"],
+  "urls": [
+    {
+      "name": "homepage",
+      "prod": "https://www.tresemme.in/",
+      "stage": "https://www.tresemme.in/"
+    },
+    {
+      "name": "searchpage",
+      "prod": "https://www.tresemme.in/collections/combo",
+      "stage": "https://www.tresemme.in/collections/combo"
+    }
+  ]
+}
